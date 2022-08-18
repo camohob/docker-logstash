@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: wamp-router
+  IMAGE_NAME: logstash
 
 jobs:
   # Push image to GitHub Packages.
